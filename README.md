@@ -1,0 +1,12 @@
+# Workshop Ancient Text Analysis with Python
+
+This repository contains materials for the Workshop Ancient Text Analysis with Python which will be held at the University of Copenhagen in May and June 2022.
+
+We cover the following topics:
+
+1. Querying the Hebrew Bible using Text Fabric Browser.
+2. Querying the New Testament and the Quran.
+3. Making data visualizations with Seaborn.
+4. Using Text Fabric with Python.
+5. Annotating raw text with Spacy.
+6. Clustering the texts of many manuscripts of the Greek Letter of Jude.
