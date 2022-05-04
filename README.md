@@ -33,3 +33,10 @@ Corpora we will explore:
 - [Data](https://github.com/q-ran/quran)
 - [Tutorials](https://github.com/q-ran/quran/tree/master/tutorial)
 
+===========================================================================
+
+Other relevant packages we will use:
+[Classical Language Toolkit](http://cltk.org)
+[spaCy](https://spacy.io)
+[scikit-learn](https://scikit-learn.org/)
+
