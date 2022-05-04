@@ -150,7 +150,7 @@ clause
 
 clause
   word lex=MCH=/
-  :2> word sp=verb # try also :2> word sp=verb
+  :2> word sp=verb # try also :3> word sp=verb
 
 
 book book=Exodus
