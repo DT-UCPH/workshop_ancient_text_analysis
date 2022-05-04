@@ -118,11 +118,6 @@ clause
 
 clause
     word lex=MCH=/
-    > word lex=>HRN/
-
-
-clause
-    word lex=MCH=/
     < word lex=>HRN/
 
 
