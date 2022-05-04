@@ -20,10 +20,10 @@ Documentation [Text-Fabric](https://annotation.github.io/text-fabric/tf)
 
 Corpora we will explore:
 1. BHSA:
-.. [Data](https://github.com/etcbc/bhsa)
-.. [Tutorials](https://github.com/ETCBC/bhsa/tree/master/tutorial)
-.. [BHSA feature docs](https://etcbc.github.io/bhsa)
-.. [Inspection of the text, features, and lexicon](https://shebanq.ancient-data.org)
+ [Data](https://github.com/etcbc/bhsa)
+- [Tutorials](https://github.com/ETCBC/bhsa/tree/master/tutorial)
+- [BHSA feature docs](https://etcbc.github.io/bhsa)
+- [Inspection of the text, features, and lexicon](https://shebanq.ancient-data.org)
 
 2. SBLGNT
 [Data](https://github.com/CenterBLC/SBLGNT)
