@@ -136,6 +136,14 @@ clause
   <: word lex=>MR[
 
 
+clause
+  =: word lex=HLK[
+
+
+clause
+  := word lex=HLK[
+
+
 book book=Exodus
   chapter chapter=3
     verse verse=11
