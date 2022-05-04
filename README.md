@@ -13,7 +13,9 @@ We cover the following topics:
 
 
 Documentation Text-Fabric:
+
 [Text-Fabric](https://annotation.github.io/text-fabric/tf)
+
 [Example corpora](https://annotation.github.io/text-fabric/tf/about/corpora.html)
 
 
