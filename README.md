@@ -36,7 +36,7 @@ Corpora we will explore:
 ===========================================================================
 
 Other relevant packages we will use:
-[Classical Language Toolkit](http://cltk.org)
-[spaCy](https://spacy.io)
-[scikit-learn](https://scikit-learn.org/)
+- [Classical Language Toolkit](http://cltk.org)
+- [spaCy](https://spacy.io)
+- [scikit-learn](https://scikit-learn.org/)
 
