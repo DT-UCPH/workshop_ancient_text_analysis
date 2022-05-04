@@ -144,6 +144,15 @@ clause
   := word lex=HLK[
 
 
+clause
+  :: word lex=HLK[
+
+
+clause
+  word lex=MCH=/
+  :2> word sp=verb # try also :2> word sp=verb
+
+
 book book=Exodus
   chapter chapter=3
     verse verse=11
