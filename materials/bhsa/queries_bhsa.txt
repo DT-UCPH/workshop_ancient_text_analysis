@@ -44,7 +44,7 @@ clause
 
 
 clause 
-  word lex_utf8=משׁה
+  word lex_utf8=הלך
 
 
 clause 
