@@ -1,12 +1,11 @@
 Online courses
 
-Of course, check the courses of UCPH Datalab!
+Of course, check the courses of UCPH Datalab:
+https://datalab.science.ku.dk/english/course
 
 Other courses:
 https://www.karsdorp.io/python-course
-
 https://pythonhumanities.com/python-for-dh-course
-
 https://huggingface.co/course/chapter1/1
 
 ###########################################################################################################################
