@@ -31,6 +31,7 @@ Corpora we will explore:
 
 3. Quran
 - [Data](https://github.com/q-ran/quran)
+- [Feature documentation](https://github.com/q-ran/quran/blob/master/docs/features.md)
 - [Tutorials](https://github.com/q-ran/quran/tree/master/tutorial)
 
 ===========================================================================
