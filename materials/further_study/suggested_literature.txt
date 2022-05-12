@@ -1,0 +1,37 @@
+Online courses
+
+Of course, check the courses of UCPH Datalab!
+
+Other courses:
+https://www.karsdorp.io/python-course
+
+https://pythonhumanities.com/python-for-dh-course
+
+https://huggingface.co/course/chapter1/1
+
+###########################################################################################################################
+
+Books
+
+Battershill, C, Ross, S., Using Digital Humanities in the Classroom: A Practical Introduction for Teachers, Lecturers, and Students, Bloomsbury, 2022.
+Drucker, J., The Digital Humanities Coursebook, Routledge, 2021.
+Grimmer, J., Roberts, M.E., Stewart, B.M., Text as Data, A New Framework for Machine Learning and the Social Sciences, Princeton University Press, 2022.
+Hammond, M., Python for Linguists, Cambridge Univesity Press, 2020.
+Hovy, D., Text Analysis in Python for Social Sciences, Discovery and Exploration, Cambridge Univesity Press, 2020. 
+Hvitfeldt, E., Silge, J., Supervised Machine Learning for Texts Analysis in R, CRC Press, 2022.
+Karsdorp, F, Kestemont, M, Riddell, A., Humanities Data Analysis, Case Studies with Python, Princeton University Press, 2021
+
+
+############################################################################################################################
+
+Papers
+
+Hyytiäinen, P., The Changing Text of Acts: A Phylogenetic Approach, online: http://jbtc.org/v26/TC-2021-Hyyti%C3%A4inen.pdf
+
+
+#############################################################################################################################
+
+Python Libraries
+
+NLTK (Natural Language Toolkit, https://www.nltk.org)
+Classical Language Toolkit (CLTK, http://cltk.org)
