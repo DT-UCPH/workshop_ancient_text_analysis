@@ -1,34 +1,24 @@
-Search for:
+Lesson 2 practical assignments
 
-BHSA
-1. all the adjectives in the BHSA.
-2. all the chapters with more than 50 verses.
-3. all verses in which both David and Jonathan occur.
-4. all cases where David is spelled plene (דויד).
-5.  all cases where the word brother (אח) occurs in construct state.
-6. all infinitive absolute verbs.
-7. all active participles.
-8. all clauses where the subject is followed immediately by the object of the clause.
+#######################################################################################
 
+1.
+Arabic
+How do you find rhyme in the text of the Quran?
+Find examples with different sounds, and compare the frequency in Meccan and Medinan sura's.
 
-SBLGNT
-1. a clause where Jesus and God both occur.
-2. where in the NT does Job occurs.
-3. a clause where Jesus is the last word.
-4. all the verbs in the NT. 
-5. all the cases where the word Jesus is followed immediately by the verb "to say".
-6. all the cases where god occurs in the accusative. 
-7. all clauses consisting of only one word.
-8. all the chapters with more than 50 verses.
+Greek
+Can you give an indication in which books righteousness/to be righteous occur most often?
+
+Hebrew 
+You have read somewhere that the article (ה) does not occur as frequently in Hebrew poetry as in Hebrew prose.
+Can you confirm this with some queries and basic calculations?
 
 
-Quran
-1. all the Meccan suras.
-2. all aya's where Muhammad (lemma muHam~ad) occurs.
-3. all the verbs in the Quran.
-4. all words of which the lemma starts with q.
-5. all the accusatives.
-6. all the feminine nouns.
-7. all the verbs in the imperfect in the Medinan suras.
-8. all dual verbs.
+#########################################################################################
 
+2. Think about a plan to expand this research.
+
+#########################################################################################
+
+3. Could you use this kind of tasks in education?
