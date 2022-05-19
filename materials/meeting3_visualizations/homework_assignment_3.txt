@@ -1,0 +1,4 @@
+Make 2 stripplots with seaborn.
+These plots are based on two different datasets.
+The plots have different "looks".
+Give a short presentation (3 minutes) about the datasets/plots and explain whether/why this is useful in education. 
