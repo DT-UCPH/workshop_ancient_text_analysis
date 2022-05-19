@@ -7,9 +7,9 @@ We cover the following topics:
 1. Querying the Hebrew Bible using Text Fabric Browser.
 2. Querying the New Testament and the Quran.
 3. Making data visualizations with Seaborn.
-4. Using Text Fabric with Python.
-5. Annotating raw text with Spacy.
-6. Clustering the texts of many manuscripts of the Greek Letter of Jude.
+4. Making data visualizations with Seaborn, part 2.
+5. Using Text Fabric with Python.
+6. Annotating raw text with Spacy or Clustering the texts of many manuscripts of the Greek Letter of Jude.
 
 ===========================================================================
 
