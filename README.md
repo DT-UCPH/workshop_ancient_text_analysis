@@ -8,7 +8,7 @@ We cover the following topics:
 2. Querying the New Testament and the Quran.
 3. Making data visualizations with Seaborn.
 4. Making data visualizations with Seaborn, part 2.
-5. Using Text Fabric with Python.
+5. Annotating Latin Genesis with CLTK.
 6. Annotating raw text with Spacy or Clustering the texts of many manuscripts of the Greek Letter of Jude.
 
 ===========================================================================
@@ -16,6 +16,8 @@ We cover the following topics:
 Documentation [Text-Fabric](https://annotation.github.io/text-fabric/tf)
 
 [Example corpora](https://annotation.github.io/text-fabric/tf/about/corpora.html)
+
+[Search documentation](https://annotation.github.io/text-fabric/tf/about/searchusage.html)
 
 ===========================================================================
 
