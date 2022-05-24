@@ -2,3 +2,6 @@ Make 2 stripplots with seaborn.
 These plots are based on two different datasets.
 The plots have different "looks".
 Give a short presentation (3 minutes) about the datasets/plots and explain whether/why this is useful in education. 
+
+In the kingdoms example with the BHSA data, we used the word node as argument 'y' in the stripplot() function. You can make a different choice,
+e.g. select the data from one book, and use the chapter column to indicate the place of the observations in the book.
