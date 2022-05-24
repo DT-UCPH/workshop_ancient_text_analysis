@@ -21,6 +21,12 @@ Documentation [Text-Fabric](https://annotation.github.io/text-fabric/tf)
 
 ===========================================================================
 
+Install the dependencies with:
+
+`pip install -r requirements.txt`
+
+===========================================================================
+
 Corpora we will explore:
 1. BHSA
 - [Data](https://github.com/etcbc/bhsa)
