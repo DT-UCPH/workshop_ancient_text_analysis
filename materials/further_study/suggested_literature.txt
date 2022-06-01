@@ -10,6 +10,10 @@ https://huggingface.co/course/chapter1/1
 
 ###########################################################################################################################
 
+https://github.com/Clear-Bible/macula-hebrew
+
+###########################################################################################################################
+
 Books
 
 Battershill, C, Ross, S., Using Digital Humanities in the Classroom: A Practical Introduction for Teachers, Lecturers, and Students, Bloomsbury, 2022.
