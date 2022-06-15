@@ -21,9 +21,15 @@ Documentation [Text-Fabric](https://annotation.github.io/text-fabric/tf)
 
 ===========================================================================
 
-Install the dependencies with:
+Set up everything:
 
-`pip install -r requirements.txt`
+Download and install [Anaconda](https://www.anaconda.com).
+Download and install [Git](https://git-scm.com) if needed.
+
+Clone this repo: `git clone https://github.com/DT-UCPH/workshop_ancient_text_analysis`
+
+Create an environment for this workshop in Anaconda and activate it.
+Install the dependencies in the environment with: `pip install -r requirements.txt`.
 
 ===========================================================================
 
